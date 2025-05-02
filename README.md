@@ -3,7 +3,7 @@
 Instrucciones para correr el modelo y consumir el API.
 
 ## Colaboradores
-- Nombre Apellido
+- Aarón Vargas Solano
 
 ## Branches
 - develop
