@@ -1,0 +1,7 @@
+stages:
+  train:
+    cmd: python scripts/reentrenamiento.py
+    deps:
+      - scripts/reentrenamiento.py
+    outs:
+      - modelo.pkl
